@@ -2,6 +2,9 @@
 
 This is a simple Machine learning React app that classifies images from a provided URL using a pre-trained model from tensorflow called `@tensorflow-models/mobilenet`. This application is cappable of identifying images from a given picture that will be provided as a URL.
 
+## How to open the deployed Application?
+[Click Here](https://image-classification-web.web.app) to open the deployed version of this application.
+
 ## This app is using
 
 - Tensorflow.js
